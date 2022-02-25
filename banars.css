@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+.bana{
+	background-image: url("Img/bg.jpg");
+	
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	position: sticky;
+	z-index: 888;
+	top: 0;
+	background: #659DBD;
+	
+}
+.lko a{
+	text-decoration: none;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	padding: 27px;
+}
+.dis{
+	font-family: 'Merriweather', serif;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	padding: 37px;
+}
+.pa{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+.checked {
+	color: orange;
+}
+section{
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #777;
+}
+.tp{
+	font-size: 36px;
+	color: #555;
+	font-weight: bold; 
+	font-family: 'Merriweather', serif;
+}
+.he3{
+	font-style: 24px;
+	color: #333;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+#places img{
+	margin-top: -50px;
+
+}
+#places p{
+	font-weight: 500;
+}
+#places .card.bn{
+	border-radius: 0; 
+	box-shadow: 5px 5px 15px blue;
+	transition: all 0.3s ease-in;
+	-webkit-transition:all 0.3s ease-in ;
+	-moz-transition: all 0.3s ease-in;
+}
+#places .card.bn:hover{
+	background: blue;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 5px 5px 10px #9E9E9E;
+
+}
+.new{
+	
+	margin-top: 45px !important;
+}

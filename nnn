@@ -1,0 +1,30 @@
+ <div class="card-container">
+                    <div class="card-container one">
+                        <div class="img-holder">
+                            <a href="#">Passion</a>
+                        </div>
+                        <div class="card-text"> 
+                            <h4>Location Of BHU</h4>
+                            <p>Banaras Hindu University, formerly Central Hindu College, is a collegiate central university located in Varanasi, Uttar Pradesh.</p>
+                        </div>
+                    </div>
+                    <div class="card-container two">
+                        <div class="img-holder">
+                            <a href="#">Book Ola</a>
+                        </div>
+                        <div class="card-text"> 
+                            <h4>Book Your Ride</h4>
+                            <p>Ola Cabs is an Indian multinational ridesharing company offering services that include vehicle for hire and food delivery.</p>
+                        </div>
+                    </div>
+                    <div class="card-container three">
+                        <div class="img-holder">
+                            <a href="#">Search Guide</a>
+                        </div>
+                        <div class="card-text"> 
+                            <h4>Book Your Guide</h4>
+                            <p> People visit Varanasi for a brush with the divine. One of the best things to do is to simply soak up the atmosphere and observe what's going on.</p>
+                        </div>
+                    </div>
+                </div>
+   

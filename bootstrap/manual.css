@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+.hd{
+    background: rgb(137,0,0);
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 294px;
+}
+.fav{
+    width: 57px;
+}
+.footerc{
+    background: rgb(137,0,0);
+}
+.hov:hover{
+    background: rgb(137,0,0);
+    color: white !important;
+}
+.sign{
+	display: flex;
+	justify-content: center;
+	font-family: 'Playfair Display', serif;
+	margin: 40px;
+}
+.submit{
+	display: flex;
+justify-content: center;
+margin-top: 44px;
+margin-bottom: 40px;
+}
+.user{
+    font-size: 100px !important;
+}
